@@ -2,8 +2,8 @@
 ## Submission for the Dr. Jonathan Fine Essay Competition focusing on the topic of "Tech and Terrorism"
 ## Full paper can be found here: https://dx.doi.org/10.2139/ssrn.4035908 
 ## Author: Cody Wilson (https://wonksecurity.com)
-## © CC BY NC 3.0 ©
-## You are free to adapt, copy or redistribute the material, providing you attribute appropriately and do not use the material for commercial purposes.
+## © MIT License
+
 
 
 ## Individual data sources located in the original Excel spreadsheet.
