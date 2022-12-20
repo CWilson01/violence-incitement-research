@@ -3,6 +3,9 @@ Dataset and R script used to produce analysis of the relationship between online
 
 The R script contains the various models and code used for the graphics and tables found in the report. All values that appear in the report can be reproduced with the code in the script.
 
+# License
+The dataset provided is licensed under [CC-BY-SA-4.0](https://github.com/CWilson01/violence-incitement-research/blob/main/DATASET%20LICENSE.md). The R script provided is licensed under an [MIT License](https://github.com/CWilson01/violence-incitement-research/blob/main/CODE%20LICENSE.md).
+
 # Abstract
 Many studies have examined ISIS’ usage of Twitter and other Internet platforms to cultivate their “online caliphate.” Despite all of this attention on the online sphere, relatively few studies have examined how online propaganda influences real-world behavior. Of those studies that exist, few are on a generalizable scale. The following aims to provide early findings of the relationship between the broader Global Jihadist Movement’s online and offline activity, particularly regarding membership and real-world violence. This mixed-methods study collected data on online activity, membership, and group-perpetrated violence for almost seventy groups for the period of 1998 to 2018. Online activity was compared separately to membership and group-perpetrated violence. Then, multiple regression models quantified the overall impact on real-world events. The results suggest online activity exerts a moderately strong, statistically significant effect on violence and a moderate effect on membership. A correlation appeared to be present between all three variables, which suggests a reinforcing cycle of attacks producing online propaganda, online propaganda producing new members, and new members carrying out yet more attacks. This may be the driver of the upward trend found in all three data sets.
 
